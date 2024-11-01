@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Post-doctoral Scholar</a>. cogito ergo sum
+subtitle: <a href='#'>Post-doctoral Scholar</a>. Resisting singularity with Descartes: Cogito Ergo Sum.
 
 profile:
   align: right
-  image: converging.jpeg
+  image: converging_machine.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UCSF Department of Radiology & Biomedical Imaging</p>
