@@ -18,8 +18,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-As an expert in data-centric AI for computational radiology, I innovate at the intersection of medical imaging and machine learning. My focus is based on transforming multimodal radiological data into AI-driven solutions that enhance diagnostic precision.
+I am a computational scientist specializing in AI-driven medical imaging analysis at UCSF's Yang Lab. My research focuses on developing advanced machine learning solutions that transform multimodal radiological data into precise diagnostic tools[1].
 
-Currently, I am working at Yang Lab - UCSF.
+**Research Focus**
+- Data-centric AI approaches for medical imaging
+- Machine learning algorithms for diagnostic enhancement
+- Multimodal radiological data integration
 
-Feel free to check and discuss on the repos.
+**Current Work**
+At Yang Lab - UCSF, I develop novel deep learning architectures that push the boundaries of automated medical image analysis, working at the cutting edge of AI applications in radiology[1][2].
+
+```python
+# Core research areas
+areas = {
+    "AI": ["Medical Imaging", "Deep Learning", "Computer Vision"],
+    "Clinical": ["Diagnostic Radiology", "Image Analysis", "Decision Support"],
+    "Technical": ["Algorithm Development", "Data Integration", "Model Optimization"]
+}
+```
+
+My work aims to bridge the gap between clinical needs and technological innovation, creating practical AI solutions that enhance radiological workflows and improve patient care[1][6].
+
+Explore my repositories or reach out to discuss potential collaborations.
+
+[personal webpage](https://mehmetcanyavuz.com/).
