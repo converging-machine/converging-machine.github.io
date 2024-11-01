@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a computational scientist specializing in AI-driven medical imaging analysis at UCSF's Yang Lab. My research focuses on developing advanced machine learning solutions that transform multimodal radiological data into precise diagnostic tools[1].
+I am a computational scientist specializing in AI-driven medical imaging analysis at UCSF's Yang Lab. My research focuses on developing advanced machine learning solutions that transform multimodal radiological data into precise diagnostic tools.
 
 **Research Focus**
 - Data-centric AI approaches for medical imaging
@@ -26,7 +26,7 @@ I am a computational scientist specializing in AI-driven medical imaging analysi
 - Multimodal radiological data integration
 
 **Current Work**
-At Yang Lab - UCSF, I develop novel deep learning architectures that push the boundaries of automated medical image analysis, working at the cutting edge of AI applications in radiology[1][2].
+At Yang Lab - UCSF, I develop novel deep learning architectures that push the boundaries of automated medical image analysis, working at the cutting edge of AI applications in radiology.
 
 ```python
 # Core research areas
@@ -37,7 +37,7 @@ areas = {
 }
 ```
 
-My work aims to bridge the gap between clinical needs and technological innovation, creating practical AI solutions that enhance radiological workflows and improve patient care[1][6].
+My work aims to bridge the gap between clinical needs and technological innovation, creating practical AI solutions that enhance radiological workflows and improve patient care.
 
 Explore my repositories or reach out to discuss potential collaborations.
 
