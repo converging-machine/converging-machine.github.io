@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Post-doctoral Scholar</a>. Resisting singularity with Descartes: Cogito Ergo Sum.
+subtitle: <a href='#'>Post-doctoral Scholar</a>. Resisting singularity with Descartes; Cogito Ergo Sum.
 
 profile:
   align: right
