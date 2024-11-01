@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>POst-doctoral Scholar</a>. cogito ergo sum
+subtitle: <a href='#'>Post-doctoral Scholar</a>. cogito ergo sum
 
 profile:
   align: right
-  image: ben_.jpeg
+  image: converging.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>UCSF Department of Radiology & Biomedical Imaging</p>
