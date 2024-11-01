@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://convergingmachine.com/projects//sitemap.xml
+Sitemap: https://converging-machine.github.io/projects//sitemap.xml
