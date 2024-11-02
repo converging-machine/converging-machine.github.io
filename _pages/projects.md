@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: git projects
 permalink: /projects/
 description: the algorithms and datasets project pages
 nav: true
