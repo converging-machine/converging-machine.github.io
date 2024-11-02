@@ -32,4 +32,5 @@ My work aims to bridge the gap between clinical needs and technological innovati
 
 Explore my repositories or reach out to discuss potential collaborations.
 
+Mehmet Can Yavuz, PhD
 [personal webpage](https://mehmetcanyavuz.com/).
