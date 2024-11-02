@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Post-doctoral Scholar</a>. Resisting singularity with Descartes; Cogito Ergo Sum.
+subtitle: Resisting singularity with Descartes - Cogito Ergo Sum.
 
 profile:
   align: right
@@ -32,5 +32,5 @@ My work aims to bridge the gap between clinical needs and technological innovati
 
 Explore my repositories or reach out to discuss potential collaborations.
 
-Mehmet Can Yavuz, PhD
+<a href='#'>Mehmet Can Yavuz, PhD</a> - Post-doctoral Scholar
 [personal webpage](https://mehmetcanyavuz.com/).
