@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
 subtitle: <a href='#'>Post-doctoral Scholar</a>. Resisting singularity with Descartes; Cogito Ergo Sum.
 
 profile:
