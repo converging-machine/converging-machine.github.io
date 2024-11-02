@@ -6,7 +6,7 @@ description: the algorithms and datasets project pages
 nav: true
 nav_order: 1
 display_categories: [algorithms, datasets]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
